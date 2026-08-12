@@ -1,13 +1,13 @@
-# ¡Hola! Soy Víctor Uría 👋
+# Víctor Uría
 
-🎓 **Estudiante de la Licenciatura en Ingeniería de Datos e Inteligencia Artificial**  
-📍 UTEC (Universidad Tecnológica del Uruguay) — ITR Norte
+**Estudiante de la Licenciatura en Ingeniería de Datos e Inteligencia Artificial**  
+UTEC (Universidad Tecnológica del Uruguay) — ITR Norte
 
 Apasionado por la **arquitectura de datos escalables**, **pipelines ETL/ELT**, el **modelado predictivo / series temporales** y el desarrollo de soluciones tecnológicas con impacto real e institucional.
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 ### **Ingeniería de Datos & Bases de Datos**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -31,7 +31,7 @@ Apasionado por la **arquitectura de datos escalables**, **pipelines ETL/ELT**, e
 
 ---
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 | Proyecto | Descripción | Componentes Clave | Tecnologías |
 | :--- | :--- | :--- | :--- |
@@ -41,7 +41,7 @@ Apasionado por la **arquitectura de datos escalables**, **pipelines ETL/ELT**, e
 
 ---
 
-## 📊 Estadísticas de GitHub
+##  Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VICTOR-URIA&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
@@ -50,6 +50,6 @@ Apasionado por la **arquitectura de datos escalables**, **pipelines ETL/ELT**, e
 
 ---
 
-## 📫 Contacto
-- **LinkedIn:** [linkedin.com/in/victor-uria](https://www.linkedin.com/in/victor-uria)
-- **Correo:** tuemail@ejemplo.com
+##  Contacto
+- **LinkedIn:** [linkedin.com/in/victor-uria](https://www.linkedin.com/in/victor-ur%C3%ADa-b60558422/)
+- **Correo:** victor.uria36485@gmail.com
