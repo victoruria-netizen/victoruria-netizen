@@ -42,13 +42,7 @@ Apasionado por la **arquitectura de datos escalables**, **pipelines ETL/ELT**, e
 
 ---
 
-## Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoruria-netizen&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoruria-netizen&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
----
 
 ##  Contacto
 - **LinkedIn:** [linkedin.com/in/victor-uria](https://www.linkedin.com/in/victor-ur%C3%ADa-b60558422/)
