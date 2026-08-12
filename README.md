@@ -35,17 +35,18 @@ Apasionado por la **arquitectura de datos escalables**, **pipelines ETL/ELT**, e
 
 | Proyecto | Descripción | Componentes Clave | Tecnologías |
 | :--- | :--- | :--- | :--- |
-| **[Ecosistema de Datos Híbrido — Siniestros Viales](https://github.com/lucaspimentel-uy/proyecto-ciencia-de-datos)**[cite: 3] | Pipeline ETL que procesa e integra **+9.2 millones de registros** (UY/BR/ES)[cite: 3]. Modelo Snowflake 3FN, landing zone NoSQL (MongoDB Replica Set + GeoJSON) y enriquecimiento climático[cite: 3]. | • Control de Cambios (CDC)<br>• Carga idempotente por Chunks<br>• Dashboard analítico Q1–Q10[cite: 3] | `Python` `PostgreSQL` `MongoDB` `Docker` `Streamlit`[cite: 3] |
+| **[Ecosistema de Datos Híbrido — Siniestros Viales](https://github.com/lucaspimentel-uy/proyecto-ciencia-de-datos)** | Pipeline ETL que procesa e integra **+9.2 millones de registros** (UY/BR/ES). Modelo Snowflake 3FN, landing zone NoSQL (MongoDB Replica Set + GeoJSON) y enriquecimiento climático. | • Control de Cambios (CDC)<br>• Carga idempotente por Chunks<br>• Dashboard analítico Q1–Q10 | `Python` `PostgreSQL` `MongoDB` `Docker` `Streamlit` |
 | **[Forecasting de Tráfico Vehicular](https://github.com/lucaspimentel-uy/mini-proyecto-series-temporales)** | Predicción diaria de flujo vehicular utilizando aprendizaje automático y modelos autoregresivos con variables exógenas (clima y días festivos). | • `ForecasterRecursive` con GradientBoosting<br>• Validación temporal e ingesta exógena<br>• Optimización de lags `[1, 2, 3, 7, 14, 21]` | `skforecast` `scikit-learn` `statsmodels` `pandas` |
-| **[Vivero QC — Control de Calidad](https://github.com/VICTOR-URIA/vivero-qc)**[cite: 1] | Progressive Web App (PWA) para la digitalización online del muestreo de calidad en plantines, con motor de cálculo de distribución porcentual y aprobación multinivel[cite: 1]. | • PWA instalable<br>• Arquitectura Cloud Serverless<br>• Máquina de estados y RLS[cite: 1] | `Next.js 15` `TypeScript` `Supabase` `Tailwind` `Vitest`[cite: 1] |
+| **[Vivero QC — Control de Calidad](https://github.com/VICTOR-URIA/vivero-qc)** | Progressive Web App (PWA) para la digitalización online del muestreo de calidad en plantines, con motor de cálculo de distribución porcentual y aprobación multinivel. | • PWA instalable<br>• Arquitectura Cloud Serverless<br>• Máquina de estados y RLS | `Next.js 15` `TypeScript` `Supabase` `Tailwind` `Vitest` |
+| **Proyecto de Salud & IA (Confidencial)** | Desarrollo de backend y arquitectura de datos para una solución de Historia Clínica Electrónica e inteligencia artificial aplicada al ámbito de la salud. | • API RESTful y auditoría de eventos<br>• Modelado relacional y migraciones | `FastAPI` `SQLAlchemy` `Alembic` `Python` |
 
 ---
 
 ##  Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VICTOR-URIA&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VICTOR-URIA&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api?username=victoruria-netizen&show_icons=true&theme=radical&count_private=true" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoruria-netizen&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
 
 ---
